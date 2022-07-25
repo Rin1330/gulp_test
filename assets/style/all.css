@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto; }
+
+h1 {
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #00cc99; }
+
+img {
+  max-width: 100%; }
+
+/*# sourceMappingURL=all.css.map */
